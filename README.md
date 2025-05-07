@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gastroboyAI
 - 👀 I’m interested in computer vision
-- 🌱 I’m currently learning the basics of python programming
 - 💞️ I’m looking to collaborate on AI in therapeutic endoscopy
 - 📫 How to reach me nestanislao@thegastroinitiative.com
 
